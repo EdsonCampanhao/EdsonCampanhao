@@ -9,7 +9,6 @@ Me chamo **Edson Gabryel!** — Sou Desenvolvedor Full Stack focado em criar apl
 ## Sobre mim
 + **👩‍💻 Cursando Tecnologia em Sistemas de Computação**
 + **🔥 Atualmente me especializando em Desenvolvimento Full-Stack**
-+ **📚 Nas minhas horas vagas estou lendo. Ultimamente foco nos livros de Isaac Asimov**
 
 
 
