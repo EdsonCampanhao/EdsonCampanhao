@@ -21,7 +21,7 @@ Me chamo **Edson Gabryel!** — Sou Desenvolvedor Full Stack focado em criar apl
 Estas são algumas das tecnologias que eu uso:
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,electron,js,nodejs,python,express,sequelize,mysql&theme=light)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,electron,js,nodejs,python,express,sequelize,mysql&theme=light)]
 
 ### Tecnologias em estudo:
 Estas são as tecnologias que eu estou estudando para me especializar:
